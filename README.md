@@ -21,3 +21,7 @@ nothing to commit, working tree clean
 mgarcia@valinor:~/Work/mygit$ 
 ```
 
+## Tracking New Files
+
+To start tracking new files, use the subcommand `add`
+
