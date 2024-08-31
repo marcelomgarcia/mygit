@@ -10,3 +10,14 @@ Each file can be in one of two states: _tracked_ or _untracked_.
 
 ## Status of Your Files
 
+Just after commiting the changes the repository should be clean:
+
+```
+mgarcia@valinor:~/Work/mygit$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+mgarcia@valinor:~/Work/mygit$ 
+```
+
