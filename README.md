@@ -6,14 +6,7 @@ Learning to use Git
 
 Each file can be in one of two states: _tracked_ or _untracked_.
 
-```mermaid
-sequenceDiagram
-    Untracked->>+Staged: add the file
-    Unmodified->>+Modified: edit the file
-    Modified->>+Staged: stage the file
-    Staged->>+Unmodified: commit
-```
-
+![Lifecycle of the status of your files](images/lifecycle.png)
 
 ## Status of Your Files
 
